@@ -1,0 +1,12 @@
+{
+    "require": {
+        "symfony/console": "^3.3"
+    },
+
+    "name": "lshchur/helloworld",
+    "autoload": {
+        "psr-0" : {
+            "Lshchur\\HelloWorld" : "src"
+        }
+    }
+}
